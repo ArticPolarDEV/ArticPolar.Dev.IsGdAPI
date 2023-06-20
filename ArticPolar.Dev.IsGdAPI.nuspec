@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>ArticPolar.Dev</id>
+    <version>1.0.0</version>
+    <title>ArticPolar.Dev.IsGdAPI</title>
+    <authors>ArticPolar Apps</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/JoseLucas1303/ArticPolar.Dev.IsGdAPI/</projectUrl>
+    <description>Create shortened links, with custom urls, using is.gd API</description>
+    <releaseNotes>First Version.</releaseNotes>
+    <copyright>Copyright © ArticPolar 2023</copyright>
+    <tags>link web shortener url api</tags>
+  </metadata>
+</package>

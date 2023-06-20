@@ -1,0 +1,5 @@
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.IsGdAPI\ArticPolar.Dev.IsGdAPI\obj\Debug\ArticPolar.Dev.IsGdAPI.csprojResolveAssemblyReference.cache
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.IsGdAPI\ArticPolar.Dev.IsGdAPI\bin\Debug\ArticPolar.Dev.IsGdAPI.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.IsGdAPI\ArticPolar.Dev.IsGdAPI\bin\Debug\ArticPolar.Dev.IsGdAPI.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.IsGdAPI\ArticPolar.Dev.IsGdAPI\obj\Debug\ArticPolar.Dev.IsGdAPI.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.IsGdAPI\ArticPolar.Dev.IsGdAPI\obj\Debug\ArticPolar.Dev.IsGdAPI.pdb
