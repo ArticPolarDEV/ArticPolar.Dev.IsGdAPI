@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>ArticPolar.Dev</id>
+    <id>ArticPolar.Dev.IsGdAPI</id>
     <version>1.0.0</version>
     <title>ArticPolar.Dev.IsGdAPI</title>
     <authors>ArticPolar Apps</authors>
